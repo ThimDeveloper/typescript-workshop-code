@@ -21,12 +21,5 @@
   "bugs": {
     "url": "https://github.com/ThimDeveloper/typescript-workshop-code/issues"
   },
-  "homepage": "https://github.com/ThimDeveloper/typescript-workshop-code#readme",
-  "devDependencies": {
-    "typescript": "^4.7.4"
-  },
-  "dependencies": {
-    "rimraf": "^3.0.2",
-    "tslib": "^2.4.0"
-  }
+  "homepage": "https://github.com/ThimDeveloper/typescript-workshop-code#readme"
 }
