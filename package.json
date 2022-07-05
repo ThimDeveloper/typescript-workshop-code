@@ -1,7 +1,7 @@
 {
   "name": "typescript-workshop-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "Learn by doing assignments to setup your own TypeScript project and how it works",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,9 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/ThimDeveloper/typescript-workshop-code.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "typescript",
+    "workshop",
+    "setup",
+    "assignments"
+  ],
+  "author": "Thim Lohse",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ThimDeveloper/typescript-workshop-code/issues"
   },
