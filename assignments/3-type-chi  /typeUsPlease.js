@@ -1,5 +1,6 @@
+// Start by changing the file type from .js to .ts
 // Try to work out the shape and interfaces of the input parameters,
-// as well as the returned interfaces and types of the function calls
+// as well as the returned interfaces and types of the function calls.
 
 const MathemathicsDamon = (sendToAPI, fromUser) => {
   const { mathmaticalFunction, firstNumber, secondNumber } = fromUser;

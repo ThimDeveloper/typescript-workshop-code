@@ -22,7 +22,7 @@
 5. Clean up and prepare for exercises
 
 
-## Exercise
+## Exercises
 1. Revert the TypeScript code to common JavaScript by removing the types. TypeScript becomes JavaScript through "deletion".
 2. Type Inference, Interfaces and Type Aliases - What the hell?!
 3. Unleash your inner martial artist and become a master of Type-Chi, the forgotten self-defense form from ancient East Asia.
