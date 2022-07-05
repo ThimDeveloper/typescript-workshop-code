@@ -10,6 +10,7 @@
    2. Output directory
    3. Enabling import helpers (tslib)
    4. Include/Exclude
+   5. Allow javascript (needed when migrating project to TypeScript)
 3. Writing our first TypeScript file
    1. Create two empty files
    2. Build the project
@@ -22,5 +23,7 @@
 
 
 ## Exercise
-1. 
+1. Revert the TypeScript code to common JavaScript by removing the types. TypeScript becomes JavaScript through "deletion".
+2. Type Inference, Interfaces and Type Aliases - What the hell?!
+3. Unleash your inner martial artist and become a master of Type-Chi, the forgotten self-defense form from ancient East Asia.
 
